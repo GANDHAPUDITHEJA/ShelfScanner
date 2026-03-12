@@ -9,19 +9,19 @@ An Android AR shelf scanning app that uses YOLOv8 to detect retail products in r
 ### 🔵 First Detection — Blue Tick
 When a product is seen for the first time, it gets a **blue bounding box** with a **blue tick** mark.
 
-![Blue Tick - First Detection](https://drive.google.com/file/d/1V8puaAYtnAknhogUGKfb8LQgMPNd2kC7/view?usp=sharing)
+![Blue Tick - First Detection](screenshots/blue_tick.jpg)
 
 ---
 
 ### 🟢 Already Scanned — Green Tick
 When you pan away and come back to the same product, it switches to a **green bounding box** with a **green tick** mark.
 
-![Green Tick - Already Scanned](https://drive.google.com/file/d/1zEif6n3Vf1v27HfUWhB-ouejCE3oqP7a/view?usp=sharing)
+![Green Tick - Already Scanned](screenshots/green_tick.jpg)
 
 ---
 
 ### 🎥 Video Demo
-[Watch Demo Video](https://drive.google.com/file/d/1WUQXxrBJi8_L2rsvVsSXgKaNJyiUpWuI/view?usp=sharing)
+[Watch Demo Video](screenshots/ShelfScanner_Video.mp4)
 
 > Blue = first time detected &nbsp;|&nbsp; Green = already scanned (visited again)
 
@@ -185,6 +185,9 @@ Camera restarts automatically on rotation via `onConfigurationChanged`.
 - Boxes are image-space locked, not world-space locked
 
 ---
+## 📱 Download APK
+
+[Download ShelfScanner APK](screenshots/ShelfScanner.apk)
 
 ## License
 
