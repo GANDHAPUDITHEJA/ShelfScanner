@@ -21,7 +21,7 @@ When you pan away and come back to the same product, it switches to a **green bo
 ---
 
 ### 🎥 Video Demo
-[Watch Demo Video](screenshots/ShelfScanner_Video.mp4)
+[Watch Demo Video](https://drive.google.com/file/d/1WUQXxrBJi8_L2rsvVsSXgKaNJyiUpWuI/view?usp=sharing)
 
 > Blue = first time detected &nbsp;|&nbsp; Green = already scanned (visited again)
 
