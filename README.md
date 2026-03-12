@@ -187,7 +187,7 @@ Camera restarts automatically on rotation via `onConfigurationChanged`.
 ---
 ## 📱 Download APK
 
-[Download ShelfScanner APK](screenshots/ShelfScanner.apk)
+[Download ShelfScanner APK](https://drive.google.com/file/d/1IZlKx_j7Yg636Y1W2G4u55NKmdBh_19y/view?usp=sharing)
 
 ## License
 
